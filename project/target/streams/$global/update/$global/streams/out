@@ -1,4 +1,4 @@
-[info] Updating {file:/Users/Jeff/scala_project/Akka_GoldenRatio/project/}akka_goldenratio-build...
+[info] Updating {file:/Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/}akka_goldenratio-build...
 [debug] :: resolving dependencies :: default#akka_goldenratio-build;0.1-SNAPSHOT
 [debug] 	confs: [compile, runtime, test, provided, optional, compile-internal, runtime-internal, test-internal, plugin, sources, docs, pom, scala-tool]
 [debug] 	validate = true
@@ -16,7 +16,7 @@
 [debug] == resolving dependencies for default#akka_goldenratio-build;0.1-SNAPSHOT [provided]
 [debug] == resolving dependencies default#akka_goldenratio-build;0.1-SNAPSHOT->org.scala-lang#scala-library;2.10.4 [provided->default(compile)]
 [info] Resolving org.scala-lang#scala-library;2.10.4 ...
-[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@2d7cb72b
+[debug] sbt-chain: Checking cache for: sbt.ivyint.MergedDescriptors@e76e0b6
 [debug] sbt-chain: module revision found in cache: org.scala-lang#scala-library;2.10.4
 [debug] 	found org.scala-lang#scala-library;2.10.4 in sbt-chain
 [debug] 	[2.10.4] org.scala-lang#scala-library;2.10.4
@@ -1766,19 +1766,19 @@
 [debug] 	[NOT REQUIRED] org.scala-sbt#apply-macro;0.13.8!apply-macro.jar
 [debug] 	[NOT REQUIRED] org.scala-lang#jline;2.10.4!jline.jar
 [debug] 	[NOT REQUIRED] org.fusesource.jansi#jansi;1.4!jansi.jar
-[debug] :: resolution report :: resolve 1174ms :: artifacts dl 33ms
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT compile produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-compile.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT runtime produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-runtime.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT test produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-test.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT provided produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-provided.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT optional produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-optional.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT compile-internal produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-compile-internal.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT runtime-internal produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-runtime-internal.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT test-internal produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-test-internal.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT plugin produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-plugin.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT sources produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-sources.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT docs produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-docs.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT pom produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-pom.xml
-[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT scala-tool produced in /Users/Jeff/scala_project/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-scala-tool.xml
-[debug] 	resolve done (1174ms resolve - 33ms download)
+[debug] :: resolution report :: resolve 1273ms :: artifacts dl 39ms
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT compile produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-compile.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT runtime produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-runtime.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT test produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-test.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT provided produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-provided.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT optional produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-optional.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT compile-internal produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-compile-internal.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT runtime-internal produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-runtime-internal.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT test-internal produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-test-internal.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT plugin produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-plugin.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT sources produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-sources.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT docs produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-docs.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT pom produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-pom.xml
+[debug] 	report for default#akka_goldenratio-build;0.1-SNAPSHOT scala-tool produced in /Users/Jeff/ScalaProjects/Akka_GoldenRatio/project/target/resolution-cache/reports/default-akka_goldenratio-build-scala-tool.xml
+[debug] 	resolve done (1273ms resolve - 39ms download)
 [info] Done updating.

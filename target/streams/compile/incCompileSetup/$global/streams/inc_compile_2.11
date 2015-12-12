@@ -4,7 +4,7 @@ output mode:
 0 -> single
 output directories:
 1 items
-output dir -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes
+output dir -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes
 compile options:
 0 items
 javac options:
@@ -20,31 +20,31 @@ name hashing:
 0 -> true
 products:
 20 items
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$$anonfun$1.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Calculate$.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRApproximation$.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRApproximation.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRMessage.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Listener$$anonfun$receive$3.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Listener.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master$$anonfun$receive$2.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Result$.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Result.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Work$.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Work.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker$$anonfun$calculateGRFor$1.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker$$anonfun$receive$1.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$delayedInit$body.class
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$$anonfun$1.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Calculate$.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRApproximation$.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRApproximation.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRMessage.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Listener$$anonfun$receive$3.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Listener.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master$$anonfun$receive$2.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Result$.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Result.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Work$.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Work.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker$$anonfun$calculateGRFor$1.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker$$anonfun$receive$1.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$delayedInit$body.class
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio.class
 binary dependencies:
 3 items
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/.ivy2/cache/com.typesafe.akka/akka-actor_2.11/jars/akka-actor_2.11-2.4.1.jar
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /Users/Jeff/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
 direct source dependencies:
 0 items
 direct external dependencies:
@@ -63,167 +63,172 @@ inheritance external dependencies:
 0 items
 class names:
 20 items
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$$anonfun$1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Calculate$
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$GRApproximation
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$GRApproximation$
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$GRMessage
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Listener
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Listener$$anonfun$receive$3
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Master
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Master$$anonfun$receive$2
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Master$$anonfun$receive$2$$anonfun$applyOrElse$1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Result
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Result$
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Work
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Work$
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Worker
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Worker$$anonfun$calculateGRFor$1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Worker$$anonfun$receive$1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$delayedInit$body
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$$anonfun$1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Calculate$
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$GRApproximation
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$GRApproximation$
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$GRMessage
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Listener
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Listener$$anonfun$receive$3
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Master
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Master$$anonfun$receive$2
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Master$$anonfun$receive$2$$anonfun$applyOrElse$1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Result
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Result$
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Work
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Work$
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Worker
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Worker$$anonfun$calculateGRFor$1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$Worker$$anonfun$receive$1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio$delayedInit$body
 used names:
-114 items
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> !
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> &&
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> *
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> +
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> -
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> <init>
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ==
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> A1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> AbstractFunction1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> AbstractFunction2
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Actor
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ActorRef
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ActorSystem
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> AnyRef
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> App
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> B1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Calculate
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ClassTag
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Double
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> DoubleIsFractional
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Duration
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Function1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GRApproximation
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GRMessage
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> IndexedSeq
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Int
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Listener
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Long
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Master
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> None
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Numeric
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Predef
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Product
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Props
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Result
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> RoundRobinPool
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ScalaRunTime
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Serializable
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Statics
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> System
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Unit
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Work
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Worker
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> _toString
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> actor
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> actorOf
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> actorRef2Scala
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> akka
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> anyHash
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> apply
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> asInstanceOf
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> augmentString
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> calculate
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> calculateGRFor
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> canBuildFrom
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> concurrent
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> context
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> currentTimeMillis
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> doubleHash
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> duration
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> eq
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> factorial
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> finalizeHash
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> foreach
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> format
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> gr
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> gr_=
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> i
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> immutable
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> intWrapper
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> isInstanceOf
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> java
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> lang
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> listener
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> map
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> master
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> materializeClassTag
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> math
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> millis
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> mix
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> n
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfElements
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfMessages
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfResults
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfResults_=
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfWorkers
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> package
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> pow
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> println
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> qual$1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> routing
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> runtime
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> scala
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> self
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> sender
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> start
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> stop
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> sum
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> system
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> terminate
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> toDouble
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> toString
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> typedProductIterator
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> unchecked
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> until
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> value
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> withRouter
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> workerRouter
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> x
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> x$1
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> x$2
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ||
+119 items
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> !
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> &&
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> *
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> +
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> -
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> /
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> <init>
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ==
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> A1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> AbstractFunction1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> AbstractFunction2
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Actor
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ActorRef
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ActorSystem
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> AnyRef
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> App
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> B1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Calculate
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ClassTag
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Double
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> DoubleIsFractional
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Duration
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Function1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GRApproximation
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GRMessage
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> GoldenRatio
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> IndexedSeq
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Int
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> IntIsIntegral
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Listener
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Long
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Master
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> None
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Numeric
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Predef
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Product
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Props
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Result
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> RoundRobinPool
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ScalaRunTime
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Serializable
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Statics
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Stream
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> System
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Unit
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Work
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> Worker
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> _toString
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> actor
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> actorOf
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> actorRef2Scala
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> akka
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> anyHash
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> apply
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> asInstanceOf
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> augmentString
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> calculate
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> calculateGRFor
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> canBuildFrom
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> concurrent
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> context
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> currentTimeMillis
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> doubleHash
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> duration
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> eq
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> factorial
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> finalizeHash
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> foreach
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> format
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> from
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> gr
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> gr_=
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> i
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> immutable
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> intWrapper
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> isInstanceOf
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> java
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> lang
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> listener
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> map
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> master
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> materializeClassTag
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> math
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> millis
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> mix
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> n
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfElements
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfMessages
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfResults
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfResults_=
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> nrOfWorkers
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> package
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> pow
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> println
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> product
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> qual$1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> routing
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> runtime
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> scala
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> self
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> sender
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> start
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> stop
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> sum
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> system
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> take
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> terminate
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> toDouble
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> toString
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> typedProductIterator
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> unchecked
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> until
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> value
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> withRouter
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> workerRouter
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> x
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> x$1
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> x$2
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> ||
 product stamps:
 20 items
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$$anonfun$1.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Calculate$.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRApproximation$.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRApproximation.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRMessage.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Listener$$anonfun$receive$3.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Listener.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master$$anonfun$receive$2.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Result$.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Result.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Work$.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Work.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker$$anonfun$calculateGRFor$1.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker$$anonfun$receive$1.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$delayedInit$body.class -> lastModified(1449214420000)
-/Users/Jeff/scala_project/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio.class -> lastModified(1449214420000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$$anonfun$1.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Calculate$.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRApproximation$.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRApproximation.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$GRMessage.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Listener$$anonfun$receive$3.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Listener.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master$$anonfun$receive$2$$anonfun$applyOrElse$1.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master$$anonfun$receive$2.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Master.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Result$.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Result.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Work$.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Work.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker$$anonfun$calculateGRFor$1.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker$$anonfun$receive$1.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$Worker.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio$delayedInit$body.class -> lastModified(1449889585000)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/target/scala-2.11/classes/GoldenRatio.class -> lastModified(1449889585000)
 source stamps:
 1 items
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> hash(f7834c5e9a5dfdc13dfb5089fc52f3679593673e)
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> hash(4a6a711ecfff14847c9a11cc04945b5a88cfdc0c)
 binary stamps:
 3 items
 /Library/Java/JavaVirtualMachines/jdk1.8.0_51.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1433812782000)
@@ -236,15 +241,24 @@ class names:
 /Users/Jeff/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.Serializable
 internal apis:
 1 items
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> 
-rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC9e3pTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwp81H7XQABHNlbGZzcQB+AAvvYQkydAAHY29udGV4dHVxAH4ACQAAAEdzcQB+AAugIZTkdAAGbm90aWZ5c3EAfgAL9nq66nQAB3VuYXBwbHlzcQB+AAtHPH7MdAAIZHVyYXRpb25zcQB+AAvjVrAGdAAHY3VycmllZHNxAH4AC3Akyqp0AAdSZWNlaXZlc3EAfgALkVzQ3nQABHdhaXRzcQB+AAs/TqDvdAAGTWFzdGVyc3EAfgALBVw6qHQADmNvcHkkZGVmYXVsdCQyc3EAfgALw+sE+XQADSRhc0luc3RhbmNlT2ZzcQB+AAvAdOVcdAAMbnJPZkVsZW1lbnRzc3EAfgAL6mOBhnQAB2NvbXBvc2VzcQB+AAuj/b+odAAMcHJvZHVjdEFyaXR5c3EAfgALbgq0DHQABmVxdWFsc3NxAH4ACyRhBrB0AAlHUk1lc3NhZ2VzcQB+AAtkRZtddAAMYXNJbnN0YW5jZU9mc3EAfgALXZJYb3QADmV4ZWN1dGlvblN0YXJ0c3EAfgALTgtSr3QADHN5bmNocm9uaXplZHNxAH4ACydteKJ0AAJncnNxAH4AC6EvriV0AA0kaXNJbnN0YW5jZU9mc3EAfgALO4eOt3QAB2FuZFRoZW5zcQB+AAtlbAcFdAAHcmVjZWl2ZXNxAH4ACxhAeIt0AApwcmVSZXN0YXJ0c3EAfgALvktQt3QABnR1cGxlZHNxAH4ACz71Ehx0AA1hcm91bmRSZWNlaXZlc3EAfgAL61oavXQACGNhbkVxdWFsc3EAfgALDrJqPnQAC3Bvc3RSZXN0YXJ0c3EAfgALj6oI/HQADmNhbGN1bGF0ZUdSRm9yc3EAfgAL+GDgRXQABG1haW5zcQB+AAsGKcxtdAAIcG9zdFN0b3BzcQB+AAtLXpxtdAANcHJvZHVjdFByZWZpeHNxAH4AC1jpz9h0AAlub3RpZnlBbGxzcQB+AAvafD1LdAALcmVhZFJlc29sdmVzcQB+AAsGA/lLdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAuN2kG1dAAMaXNJbnN0YW5jZU9mc3EAfgALQMf6vXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsNXE2AdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuZ4a8qdAAITGlzdGVuZXJzcQB+AAurUXnVdAAEV29ya3NxAH4AC/1MUR50AAY8aW5pdD5zcQB+AAtMVwAqdAAIcHJlU3RhcnRzcQB+AAuZ8DnidAAJdW5oYW5kbGVkc3EAfgALEzzrzXQACWNhbGN1bGF0ZXNxAH4AC1D1dv50AAVhcHBseXNxAH4AC5Ih4nh0AAI9PXNxAH4AC0HPh2F0AAVjbG9uZXNxAH4AC74TdQZ0AA9HUkFwcHJveGltYXRpb25zcQB+AAvVuAX7dAAJQ2FsY3VsYXRlc3EAfgALx15YF3QAC0dvbGRlblJhdGlvc3EAfgALm7IKp3QABGNvcHlzcQB+AAtnZQC2dAAGc2VuZGVyc3EAfgALUZUKRnQACHRvU3RyaW5nc3EAfgALE+okwHQABGFyZ3NzcQB+AAs4xotgdAALbnJPZlJlc3VsdHNzcQB+AAvi1v9wdAAMd29ya2VyUm91dGVyc3EAfgALgWS+6nQAAiE9c3EAfgALMPO/2nQACGdldENsYXNzc3EAfgALGlt6cHQABldvcmtlcnNxAH4AC38GmsZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC+d3mHN0AAZSZXN1bHRzcQB+AAtJfaZ2dAAFc3RhcnRzcQB+AAtwMqGldAACbmVzcQB+AAsQpGmldAAFdmFsdWVzcQB+AAviObswdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALE+Pb2XQAAmVxc3EAfgALsOlb83QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC5MRBAV0AAtkZWxheWVkSW5pdHNxAH4AC2LjkL50AAIjI3NxAH4AC+YE1+R0AAhmaW5hbGl6ZXNxAH4AC0j+T1V0AA5wcm9kdWN0RWxlbWVudHNxAH4AC3VY4N50AAhoYXNoQ29kZXNxAH4ACwVicB50AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AKl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AcXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AwgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AqUwACWluaGVyaXRlZHEAfgCpTAAHcGFyZW50c3EAfgCpeHEAfgDJc3EAfgDCAXVxAH4ApAAAAABwc3EAfgDCAXVxAH4ApAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AqnEAfgCzdXEAfgC0AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A03hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDIdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AO1zcQB+ALYAcQB+AEl1cQB+ALgAAAAAc3EAfgDgdAAEVW5pdHEAfgDmdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4A03hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Au3QABVBsYWlucQB+AHlzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AOFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AMhzcQB+AOB0AAVBcnJheXEAfgDmdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AOB0AAZTdHJpbmdzcQB+AORzcQB+AOd1cQB+AOoAAAADc3EAfgDsdAAEamF2YXNxAH4A7HQABGxhbmdxAH4A8XBzcQB+AMIBdXEAfgEIAAAABHNxAH4A4HQAA0FwcHEAfgDmc3EAfgDgdAALRGVsYXllZEluaXRxAH4A5nNxAH4A4HQABk9iamVjdHEAfgEMc3EAfgDgdAADQW55cQB+AOZwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRa+kRtXVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEQvVXNlcnMvSmVmZi9zY2FsYV9wcm9qZWN0L0Fra2FfR29sZGVuUmF0aW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFPeDTF6aXf3BPftQifxS82eVk2c+
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHC9e3pTAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAACc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwp81H7XQABHNlbGZzcQB+AAvvYQkydAAHY29udGV4dHVxAH4ACQAAAEdzcQB+AAugIZTkdAAGbm90aWZ5c3EAfgAL9nq66nQAB3VuYXBwbHlzcQB+AAtHPH7MdAAIZHVyYXRpb25zcQB+AAvjVrAGdAAHY3VycmllZHNxAH4AC3Akyqp0AAdSZWNlaXZlc3EAfgALkVzQ3nQABHdhaXRzcQB+AAs/TqDvdAAGTWFzdGVyc3EAfgALBVw6qHQADmNvcHkkZGVmYXVsdCQyc3EAfgALw+sE+XQADSRhc0luc3RhbmNlT2ZzcQB+AAvAdOVcdAAMbnJPZkVsZW1lbnRzc3EAfgAL6mOBhnQAB2NvbXBvc2VzcQB+AAuj/b+odAAMcHJvZHVjdEFyaXR5c3EAfgALbgq0DHQABmVxdWFsc3NxAH4ACyRhBrB0AAlHUk1lc3NhZ2VzcQB+AAtkRZtddAAMYXNJbnN0YW5jZU9mc3EAfgALXZJYb3QADmV4ZWN1dGlvblN0YXJ0c3EAfgALTgtSr3QADHN5bmNocm9uaXplZHNxAH4ACydteKJ0AAJncnNxAH4AC6EvriV0AA0kaXNJbnN0YW5jZU9mc3EAfgALO4eOt3QAB2FuZFRoZW5zcQB+AAtlbAcFdAAHcmVjZWl2ZXNxAH4ACxhAeIt0AApwcmVSZXN0YXJ0c3EAfgALvktQt3QABnR1cGxlZHNxAH4ACz71Ehx0AA1hcm91bmRSZWNlaXZlc3EAfgAL61oavXQACGNhbkVxdWFsc3EAfgALDrJqPnQAC3Bvc3RSZXN0YXJ0c3EAfgALj6oI/HQADmNhbGN1bGF0ZUdSRm9yc3EAfgAL+GDgRXQABG1haW5zcQB+AAsGKcxtdAAIcG9zdFN0b3BzcQB+AAtLXpxtdAANcHJvZHVjdFByZWZpeHNxAH4AC1jpz9h0AAlub3RpZnlBbGxzcQB+AAvafD1LdAALcmVhZFJlc29sdmVzcQB+AAsGA/lLdAARYXJvdW5kUG9zdFJlc3RhcnRzcQB+AAuN2kG1dAAMaXNJbnN0YW5jZU9mc3EAfgALQMf6vXQAEGFyb3VuZFByZVJlc3RhcnRzcQB+AAsNXE2AdAAOYXJvdW5kUG9zdFN0b3BzcQB+AAuZ4a8qdAAITGlzdGVuZXJzcQB+AAurUXnVdAAEV29ya3NxAH4AC/1MUR50AAY8aW5pdD5zcQB+AAtMVwAqdAAIcHJlU3RhcnRzcQB+AAuZ8DnidAAJdW5oYW5kbGVkc3EAfgALEzzrzXQACWNhbGN1bGF0ZXNxAH4AC1D1dv50AAVhcHBseXNxAH4AC5Ih4nh0AAI9PXNxAH4AC0HPh2F0AAVjbG9uZXNxAH4AC74TdQZ0AA9HUkFwcHJveGltYXRpb25zcQB+AAvVuAX7dAAJQ2FsY3VsYXRlc3EAfgALx15YF3QAC0dvbGRlblJhdGlvc3EAfgALm7IKp3QABGNvcHlzcQB+AAtnZQC2dAAGc2VuZGVyc3EAfgALUZUKRnQACHRvU3RyaW5nc3EAfgALE+okwHQABGFyZ3NzcQB+AAs4xotgdAALbnJPZlJlc3VsdHNzcQB+AAvi1v9wdAAMd29ya2VyUm91dGVyc3EAfgALgWS+6nQAAiE9c3EAfgALMPO/2nQACGdldENsYXNzc3EAfgALGlt6cHQABldvcmtlcnNxAH4AC38GmsZ0AA5jb3B5JGRlZmF1bHQkMXNxAH4AC+d3mHN0AAZSZXN1bHRzcQB+AAtJfaZ2dAAFc3RhcnRzcQB+AAtwMqGldAACbmVzcQB+AAsQpGmldAAFdmFsdWVzcQB+AAviObswdAASc3VwZXJ2aXNvclN0cmF0ZWd5c3EAfgALE+Pb2XQAAmVxc3EAfgALsOlb83QAD3Byb2R1Y3RJdGVyYXRvcnNxAH4AC5MRBAV0AAtkZWxheWVkSW5pdHNxAH4AC2LjkL50AAIjI3NxAH4AC+YE1+R0AAhmaW5hbGl6ZXNxAH4AC0j+T1V0AA5wcm9kdWN0RWxlbWVudHNxAH4AC3VY4N50AAhoYXNoQ29kZXNxAH4ACwVicB50AA5hcm91bmRQcmVTdGFydHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AKl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgAMeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AcXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAJ0ABBzY2FsYS5kZXByZWNhdGVkdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AwgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AqUwACWluaGVyaXRlZHEAfgCpTAAHcGFyZW50c3EAfgCpeHEAfgDJc3EAfgDCAXVxAH4ApAAAAABwc3EAfgDCAXVxAH4ApAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AqnEAfgCzdXEAfgC0AAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4A03hwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AAxMAAV2YWx1ZXEAfgAMeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AAxMAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgDIdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AMhzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgAMeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AO1zcQB+ALYAcQB+AEl1cQB+ALgAAAAAc3EAfgDgdAAEVW5pdHEAfgDmdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AAxMAAN0cGVxAH4A03hwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4Au3QABVBsYWlucQB+AHlzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AOFbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AMhzcQB+AOB0AAVBcnJheXEAfgDmdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AOB0AAZTdHJpbmdzcQB+AORzcQB+AOd1cQB+AOoAAAADc3EAfgDsdAAEamF2YXNxAH4A7HQABGxhbmdxAH4A8XBzcQB+AMIBdXEAfgEIAAAABHNxAH4A4HQAA0FwcHEAfgDmc3EAfgDgdAALRGVsYXllZEluaXRxAH4A5nNxAH4A4HQABk9iamVjdHEAfgEMc3EAfgDgdAADQW55cQB+AOZwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAAc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFRlCdHbnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADEwAD3NvdXJjZURpcmVjdG9yeXEAfgAMeHB0AEQvVXNlcnMvSmVmZi9TY2FsYVByb2plY3RzL0Fra2FfR29sZGVuUmF0aW8vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEpqcR7P/xSEfJoRzASUW1qIz9wM
 external apis:
 0 items
 source infos:
 1 items
-/Users/Jeff/scala_project/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> 
+/Users/Jeff/ScalaProjects/Akka_GoldenRatio/src/main/scala/GoldenRatio.scala -> 
 AAAAAAAAAAA=
 compilations:
-2 items
-0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUWvl9tJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL3NjYWxhX3Byb2plY3QvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
-1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUWvpEbV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL3NjYWxhX3Byb2plY3QvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+11 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUWvl9tJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL3NjYWxhX3Byb2plY3QvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUWvpEbV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL3NjYWxhX3Byb2plY3QvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZQfIcR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL1NjYWxhUHJvamVjdHMvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZQgFu91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL1NjYWxhUHJvamVjdHMvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZQgbQJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL1NjYWxhUHJvamVjdHMvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZQhhAd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL1NjYWxhUHJvamVjdHMvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZQiwVJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL1NjYWxhUHJvamVjdHMvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZQkhqZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL1NjYWxhUHJvamVjdHMvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZQlgr91cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL1NjYWxhUHJvamVjdHMvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZQm5RR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL1NjYWxhUHJvamVjdHMvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUZQnR251cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARC9Vc2Vycy9KZWZmL1NjYWxhUHJvamVjdHMvQWtrYV9Hb2xkZW5SYXRpby90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABLw==
